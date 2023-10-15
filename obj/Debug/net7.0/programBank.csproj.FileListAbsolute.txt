@@ -1,0 +1,14 @@
+C:\Users\pejo5\Desktop\banking-system\banking-system\bin\Debug\net7.0\programBank.exe
+C:\Users\pejo5\Desktop\banking-system\banking-system\bin\Debug\net7.0\programBank.deps.json
+C:\Users\pejo5\Desktop\banking-system\banking-system\bin\Debug\net7.0\programBank.runtimeconfig.json
+C:\Users\pejo5\Desktop\banking-system\banking-system\bin\Debug\net7.0\programBank.dll
+C:\Users\pejo5\Desktop\banking-system\banking-system\bin\Debug\net7.0\programBank.pdb
+C:\Users\pejo5\Desktop\banking-system\banking-system\obj\Debug\net7.0\programBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pejo5\Desktop\banking-system\banking-system\obj\Debug\net7.0\programBank.AssemblyInfoInputs.cache
+C:\Users\pejo5\Desktop\banking-system\banking-system\obj\Debug\net7.0\programBank.AssemblyInfo.cs
+C:\Users\pejo5\Desktop\banking-system\banking-system\obj\Debug\net7.0\programBank.csproj.CoreCompileInputs.cache
+C:\Users\pejo5\Desktop\banking-system\banking-system\obj\Debug\net7.0\programBank.dll
+C:\Users\pejo5\Desktop\banking-system\banking-system\obj\Debug\net7.0\refint\programBank.dll
+C:\Users\pejo5\Desktop\banking-system\banking-system\obj\Debug\net7.0\programBank.pdb
+C:\Users\pejo5\Desktop\banking-system\banking-system\obj\Debug\net7.0\programBank.genruntimeconfig.cache
+C:\Users\pejo5\Desktop\banking-system\banking-system\obj\Debug\net7.0\ref\programBank.dll
